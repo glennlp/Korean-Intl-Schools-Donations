@@ -4,7 +4,7 @@ import math
 s = requests.Session()
 #list of intl schools: ()
 FEC_key = 'vYPKUmsd6xZNfsOafhXj7Q9mb9jseNtWv7h2PEZJ'
-EmpNoP = 'Cheongna Dalton'
+EmpNoP = ''
 EmP = EmpNoP.replace(' ', "+")
 Ecycle = '2020' #2019-2020
 
